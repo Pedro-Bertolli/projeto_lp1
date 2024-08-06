@@ -1,7 +1,7 @@
 CREATE TABLE fornecedor(
 	id_for serial,
-	nome_for character varying(50),
-	cnpj_for character varying(15),
+	nome_for integer varying(50), -> erro
+	cnpj_for integer varying(15), -> erro
 	tel_for character varying(13),
 	data_cad_for date,
 	CONSTRAINT fornecedor_pkey PRIMARY KEY (id_for)
