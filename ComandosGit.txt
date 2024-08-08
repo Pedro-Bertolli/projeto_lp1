@@ -5,4 +5,9 @@ Editar algum arquivo, comentando mesmo. (vim)
 git add . (pra garantir)
 git commit -m "mensagem"
 git push -u origin "sua branch"
+<<<<<<< HEAD
 Estou testando se ainda sei fazer isso KKKKKK
+=======
+===============================
+Criar um pull request no github.
+>>>>>>> b94bbba9d6634e36bb8c0269985d6fe008b34369
