@@ -1,5 +1,6 @@
 Passo a Passo para o dia:
 Já chegar com o Repositório clonado
+executar um git pull (para atualizar o repositório local)
 Criar uma Branch para você
 Editar algum arquivo, comentando mesmo. (vim)
 git add . (pra garantir)
@@ -7,3 +8,4 @@ git commit -m "mensagem"
 git push -u origin "sua branch"
 ===============================
 Criar um pull request no github.
+>>>>>>> b94bbba9d6634e36bb8c0269985d6fe008b34369
