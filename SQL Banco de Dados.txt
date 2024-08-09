@@ -7,6 +7,7 @@ CREATE TABLE fornecedor(
 	CONSTRAINT fornecedor_pkey PRIMARY KEY (id_for)
 );
 
+<!-- COmentario bem top-->
 
 CREATE TABLE produto(
 	id_prod serial,
